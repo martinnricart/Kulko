@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {
+    *{  margin: 152.5hv;
+        width: 5%;
+        max-width: 500px;
+        width: 800%;
+        
+        
+  }
+}
+
+body {
+    
+    margin: 12.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 445vh; /* Esto centra verticalmente en la pantalla completa */
+}
+
